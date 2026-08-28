@@ -26,13 +26,13 @@
 
 ## 👋 Hey, I'm Bimels
 
-I'm a software developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
-
+I'm a web developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
 
 - 🔭 Currently working on **[DocuVault](https://github.com/BimelsHabtamu/DocuVault)** — an internship project
 - 🌱 Currently learning **Python on DataCamp**, then moving into **AI Fundamentals**
 - 💬 Ask me about **Python, Django, Laravel, PHP**
-- ⚡ Fun fact: **In the real world I enjoy fun TikTok videos, but in the code world my version of fun is watching a project actually work end to end without error**
+- ⚡ Fun fact: **In the real world I enjoy fun TikTok videos, but in the code world my version of fun is watching a project actually work end to end**
+
 ---
 
 ## 🛠 Tech Stack
@@ -107,7 +107,7 @@ I'm a software developer passionate about building things that solve real proble
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Project 1**](https://github.com/BimelsHabtamu/Co-Dev-Hackathon) | 24 Hours Hackathon Compettion | Laravel · Vue |
+| [**Project 1**](https://github.com/BimelsHabtamu/project1) | Short description of what it does | Python · Django |
 | [**Project 2**](https://github.com/BimelsHabtamu/project2) | Short description of what it does | React · Node.js |
 | [**Project 3**](https://github.com/BimelsHabtamu/project3) | Short description of what it does | FastAPI · PostgreSQL |
 
@@ -134,9 +134,11 @@ I'm a software developer passionate about building things that solve real proble
 
 I'm always open to interesting conversations, collaborations, and opportunities.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-your--website.com-black?style=for-the-badge)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/EMAIL-youremail%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio--one--livid--96.vercel.app-black?style=for-the-badge)](https://portfolio-one-livid-96.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimels-habtamu-8873073b)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/bime2127)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimuman21)
+[![Email](https://img.shields.io/badge/EMAIL-bimelshabtamu152%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
 
 </div>
 
