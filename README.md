@@ -1,8 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bimels+%F0%9F%91%8B;Always+Online+%F0%9F%9F%A2;Backend+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A;Let's+Build+Together+%F0%9F%A4%9D" alt="Typing SVG" />
+<picture>
+  <!-- Mobile: narrower width -->
+  <source media="(max-width: 480px)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=380&height=60&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80" />
+  <!-- Desktop: full width -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=70&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80"
+    alt="Typing SVG"
+    width="100%"
+    style="max-width:750px"
+  />
+</picture>
 
 </div>
+
 ---
 
 <div align="center">
@@ -29,7 +41,7 @@ Open to remote roles · UTC+03:00, full overlap with Nairobi hours
 
 ## 👋 Hey, I'm Bimels
 
-I'm a web developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
+I'm a software developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
 
 - 🔭 Currently working on **[DocuVault](https://github.com/BimelsHabtamu/DocuVault)** — an internship project
 - 🌱 Currently learning **Python on DataCamp**, then moving into **AI Fundamentals**
