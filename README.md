@@ -37,32 +37,69 @@ I'm a software developer passionate about building things that solve real proble
 
 ## 🛠 Tech Stack
 
-**Languages**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" width="45" title="Python" />
+      <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" width="45" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=c" width="45" title="C" />
+      <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5" />
+      <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" width="45" title="Django" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" title="Express" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" title="GraphQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=redis" width="45" title="Redis" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" title="Supabase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI &amp; ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" title="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="45" title="OpenAI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="45" title="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=vite" width="45" title="Vite" />
+      <img src="https://skillicons.dev/icons?i=figma" width="45" title="Figma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker" />
+      <img src="https://skillicons.dev/icons?i=aws" width="45" title="AWS" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="45" title="Nginx" />
+      <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" />
+      <img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux" />
+      <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +107,7 @@ I'm a software developer passionate about building things that solve real proble
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Project 1**](https://github.com/BimelsHabtamu/project1) | Short description of what it does | Python · Django |
+| [**Project 1**](https://github.com/BimelsHabtamu/Co-Dev-Hackathon) | 24 Hours Hackathon Compettion | Laravel · Vue |
 | [**Project 2**](https://github.com/BimelsHabtamu/project2) | Short description of what it does | React · Node.js |
 | [**Project 3**](https://github.com/BimelsHabtamu/project3) | Short description of what it does | FastAPI · PostgreSQL |
 
