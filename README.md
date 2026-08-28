@@ -3,10 +3,10 @@
 <picture>
   <!-- Mobile: narrower width -->
   <source media="(max-width: 480px)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=380&height=60&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80" />
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=380&height=60&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Learn+today.+Build+tomorrow.+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80" />
   <!-- Desktop: full width -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=70&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=70&cursor=true&lines=Hi%2C+I'm+Bimels+Habtamu+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%9A%80;IDEEZA+Campus+Ambassador+%F0%9F%8C%8D;Learn+today.+Build+tomorrow.+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Together+%F0%9F%9A%80"
     alt="Typing SVG"
     width="100%"
     style="max-width:750px"
