@@ -39,6 +39,23 @@ I'm a software developer passionate about building things that solve real proble
 
 ---
 
+## 🧠 How I Think About Building Software
+
+I don't just build software that works. I try to understand why it works, what happens when it doesn't and how it can become better.
+
+| Principle | How I approach it |
+|---|---|
+| **Build for real problems** | Start with the problem and user need, not the technology. |
+| **Keep things simple** | Prefer clear, maintainable solutions over unnecessary complexity. |
+| **Design for failure** | Validate inputs, handle errors, and make failures predictable. |
+| **Protect the data** | Treat data integrity, authentication, authorization, and security as core requirements. |
+| **APIs are contracts** | Build predictable APIs with clear validation, consistent responses, and meaningful errors. |
+| **Think beyond the request** | Consider performance, scalability, edge cases, and what happens under real usage. |
+| **Make systems observable** | Logs and useful error information should make debugging easier, not harder. |
+| **Learn, then improve** | I don't need to know everything before I start. I build, learn from problems, and improve the system. |
+
+---
+
 ## 🛠 Tech Stack
 
 <table>
