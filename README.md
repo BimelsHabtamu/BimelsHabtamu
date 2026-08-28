@@ -10,15 +10,19 @@
 
 # Bimels Habtamu
 
-**Backend Developer · Open Source · Always Building**
+**Backend Developer · AI Systems · Open Source**
 
-*I build systems that work when it matters.*
+*I build, learn and solve with technology.*
+
+`Python` · `Django` · `MySQL` · `Laravel` · `PHP` · `AI`
+
+Open to remote roles · UTC+03:00, full overlap with Nairobi hours
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio--one--livid--96.vercel.app-black?style=for-the-badge)](https://portfolio-one-livid-96.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimels-habtamu-8873073b)
 [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/bime2127)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimuman21)
-[![Email](https://img.shields.io/badge/EMAIL-bimelshabtamu152%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
 
 </div>
 
@@ -26,7 +30,7 @@
 
 ## 👋 Hey, I'm Bimels
 
-I'm a web developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
+I'm a software developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
 
 - 🔭 Currently working on **[DocuVault](https://github.com/BimelsHabtamu/DocuVault)** — an internship project
 - 🌱 Currently learning **Python on DataCamp**, then moving into **AI Fundamentals**
@@ -138,7 +142,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimels-habtamu-8873073b)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/bime2127)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimuman21)
-[![Email](https://img.shields.io/badge/EMAIL-bimelshabtamu152%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
 
 </div>
 
