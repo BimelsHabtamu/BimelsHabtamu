@@ -14,10 +14,11 @@
 
 *I build systems that work when it matters.*
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-black?style=for-the-badge)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio--one--livid--96.vercel.app-black?style=for-the-badge)](https://portfolio-one-livid-96.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimels-habtamu-8873073b)
+[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/bime2127)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimuman21)
+[![Email](https://img.shields.io/badge/EMAIL-bimelshabtamu152%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:bimelshabtamu152@gmail.com)
 
 </div>
 
@@ -27,12 +28,11 @@
 
 I'm a software developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
 
-- � Currently working on **[your current project]**
-- 🌱 Currently learning **[what you're learning]**
-- 💬 Ask me about **Python, JavaScript, your stack**
-- 🌍 Based in **[Your City, Country]**
-- ⚡ Fun fact: **[something interesting about you]**
 
+- 🔭 Currently working on **[DocuVault](https://github.com/BimelsHabtamu/DocuVault)** — an internship project
+- 🌱 Currently learning **Python on DataCamp**, then moving into **AI Fundamentals**
+- 💬 Ask me about **Python, Django, Laravel, PHP**
+- ⚡ Fun fact: **In the real world I enjoy fun TikTok videos, but in the code world my version of fun is watching a project actually work end to end without error**
 ---
 
 ## 🛠 Tech Stack
@@ -117,8 +117,8 @@ I'm a software developer passionate about building things that solve real proble
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BimelsHabtamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/BimelsHabtamu)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimelsHabtamu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BimelsHabtamu)
+[![GitHub Stats](https://ghstats.dev/api/card?username=BimelsHabtamu&theme=tokyonight)](https://github.com/BimelsHabtamu)
+[![Top Languages](https://ghstats.dev/api/langs?username=BimelsHabtamu&theme=tokyonight&layout=bar)](https://github.com/BimelsHabtamu)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BimelsHabtamu&theme=tokyonight&hide_border=true)](https://github.com/BimelsHabtamu)
 
