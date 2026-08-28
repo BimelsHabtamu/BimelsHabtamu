@@ -60,64 +60,71 @@ I don't just build software that works. I try to understand why it works, what h
 
 <table>
   <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" width="45" title="Python" />
-      <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=ts" width="45" title="TypeScript" />
-      <img src="https://skillicons.dev/icons?i=c" width="45" title="C" />
-      <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5" />
-      <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3" />
+    <td align="center" width="130"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://www.python.org/doc/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://learn.microsoft.com/en-us/cpp/c-language/" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=django" width="45" title="Django" />
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI" />
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" />
-      <img src="https://skillicons.dev/icons?i=express" width="45" title="Express" />
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" title="GraphQL" />
+    <td align="left">
+      <a href="https://docs.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://nodejs.org/en/docs" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://laravel.com/docs" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://www.php.net/manual/en/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" /></a>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td align="center"><b>Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL" />
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL" />
-      <img src="https://skillicons.dev/icons?i=redis" width="45" title="Redis" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=supabase" width="45" title="Supabase" />
+    <td align="left">
+      <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://redis.io/docs/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://supabase.com/docs" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" /></a>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td align="center"><b>AI &amp; ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow" />
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" title="PyTorch" />
-      <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="45" title="OpenAI" />
+    <td align="left">
+      <a href="https://www.tensorflow.org/learn" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://pytorch.org/docs/stable/index.html" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://docs.opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://platform.openai.com/docs" title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" /></a>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" width="45" title="React" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" />
-      <img src="https://skillicons.dev/icons?i=vite" width="45" title="Vite" />
-      <img src="https://skillicons.dev/icons?i=figma" width="45" title="Figma" />
+    <td align="left">
+      <a href="https://react.dev/learn" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://nextjs.org/docs" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://tailwindcss.com/docs" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://vitejs.dev/guide/" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://vuejs.org/guide/introduction" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://www.figma.com/resources/learn-design/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /></a>
     </td>
   </tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
   <tr>
     <td align="center"><b>Infra &amp; Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker" />
-      <img src="https://skillicons.dev/icons?i=aws" width="45" title="AWS" />
-      <img src="https://skillicons.dev/icons?i=nginx" width="45" title="Nginx" />
-      <img src="https://skillicons.dev/icons?i=git" width="45" title="Git" />
-      <img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux" />
-      <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" />
+    <td align="left">
+      <a href="https://docs.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://docs.aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://nginx.org/en/docs/" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>&nbsp;
+      <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
     </td>
   </tr>
 </table>
