@@ -30,7 +30,7 @@ Open to remote roles · UTC+03:00, full overlap with Nairobi hours
 
 ## 👋 Hey, I'm Bimels
 
-I'm a software developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
+I'm a web developer passionate about building things that solve real problems. I focus on writing clean, reliable backend systems and contributing to the open source community.
 
 - 🔭 Currently working on **[DocuVault](https://github.com/BimelsHabtamu/DocuVault)** — an internship project
 - 🌱 Currently learning **Python on DataCamp**, then moving into **AI Fundamentals**
